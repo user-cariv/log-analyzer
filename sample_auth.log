@@ -1,0 +1,15 @@
+Oct 20 10:01:12 server sshd[1201]: Failed password for root from 203.0.113.45 port 40122 ssh2
+Oct 20 10:01:15 server sshd[1203]: Failed password for root from 203.0.113.45 port 40130 ssh2
+Oct 20 10:01:19 server sshd[1205]: Failed password for invalid user admin from 203.0.113.45 port 40144 ssh2
+Oct 20 10:01:23 server sshd[1207]: Failed password for invalid user test from 203.0.113.45 port 40152 ssh2
+Oct 20 10:01:27 server sshd[1209]: Failed password for invalid user oracle from 203.0.113.45 port 40160 ssh2
+Oct 20 10:01:31 server sshd[1211]: Failed password for root from 203.0.113.45 port 40170 ssh2
+Oct 20 10:05:02 server sshd[1250]: Accepted password for student from 192.0.2.10 port 51000 ssh2
+Oct 20 10:07:44 server sshd[1260]: Failed password for student from 192.0.2.10 port 51022 ssh2
+Oct 20 10:12:09 server sshd[1301]: Failed password for invalid user ubuntu from 198.51.100.77 port 33001 ssh2
+Oct 20 10:12:13 server sshd[1303]: Failed password for invalid user ubuntu from 198.51.100.77 port 33005 ssh2
+Oct 20 10:12:18 server sshd[1305]: Failed password for root from 198.51.100.77 port 33011 ssh2
+Oct 20 10:12:22 server sshd[1307]: Failed password for root from 198.51.100.77 port 33017 ssh2
+Oct 20 10:12:26 server sshd[1309]: Failed password for pi from 198.51.100.77 port 33023 ssh2
+Oct 20 10:12:30 server sshd[1311]: Failed password for pi from 198.51.100.77 port 33029 ssh2
+Oct 20 10:12:34 server sshd[1313]: Failed password for admin from 198.51.100.77 port 33035 ssh2
